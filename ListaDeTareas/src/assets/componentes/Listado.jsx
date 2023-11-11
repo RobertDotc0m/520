@@ -11,7 +11,7 @@ function BasicExample({ dataFilter }) {
       <td>{colaborador.telefono}</td>
       <td>{colaborador.eliminar}</td>
       <td>
-        <i className="fa-solid fa-trash-can">{/*onclick*/}</i>
+        <i className="fa-solid fa-trash-can"></i>
       </td>
     </tr>
   ));
